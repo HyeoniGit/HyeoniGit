@@ -36,12 +36,3 @@
 </p>
 
 ---
-
-### 📫 Contact
-
-<p align="center">
-  <!-- 이메일/블로그/LinkedIn 등 원하는 링크로 교체하세요 -->
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>⭐️ 이 프로필이 마음에 드셨다면 관심있는 레포에 Star 부탁드려요!</i></p>
