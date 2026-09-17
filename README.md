@@ -12,15 +12,6 @@
 
 ---
 
-### 👀 About Me
-
-- 🔭 현재 **자료구조(C++)** 를 공부하며 기초를 다지고 있어요 — [`cpp-Data-Structure-Study`](https://github.com/HyeoniGit/cpp-Data-Structure-Study)
-- 🌐 오픈소스 수업을 통해 협업/기여 방법을 익히는 중이에요 — [`OpenSourceClass_Practice`](https://github.com/HyeoniGit/OpenSourceClass_Practice)
-- 🔗 TypeScript로 개인 프로젝트 [`mylink`](https://github.com/HyeoniGit/mylink) 를 만들고 있어요
-- 💬 궁금한 점은 이슈나 PR로 편하게 남겨주세요!
-
----
-
 ### 🛠 Tech Stack
 
 <p align="center">
